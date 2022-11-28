@@ -138,7 +138,7 @@ Have a look at some [common Issues](https://github.com/Cyberteron/BlackHole.git)
 
 ## Want to test Beta Versions? Need help??
 
-You can join our [Telegram Channel](https://t.me/) or [Telegram Group](https://t.me/joinchat/fHDC1AWnOhw0ZmI9), if you have any query, or need help with something as well as to get beta updates of the project.
+You can join our [Telegram Channel](https://t.me/+lMnEiGoHHX04ZDJl) or [Telegram Group](https://t.me/+lMnEiGoHHX04ZDJl), if you have any query, or need help with something as well as to get beta updates of the project.
 
 ## Liked my work?
 
