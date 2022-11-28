@@ -1,6 +1,6 @@
 ![Repo Banner](https://user-images.githubusercontent.com/87353286/144381080-faf8e557-7909-43a1-a8e2-208936e5a8f8.png)
 
-# BlackHole
+# BlackHole by Abhishek 
 
 An Open-Source Music Player App for all your needs!
 
@@ -12,7 +12,7 @@ An Open-Source Music Player App for all your needs!
 
 [![GitHub stars](https://img.shields.io/github/stars/Sangwan5688/BlackHole.svg?style=social&label=Star)]([[https://github.com//Sangwan5688/BlackHole](https://github.com/Cyberteron/BlackHole.git)](https://github.com/Cyberteron/BlackHole.git)) ![GitHub forks](https://img.shields.io/github/forks/Sangwan5688/BlackHole.svg?style=social&label=Forks) ![GitHub followers](https://img.shields.io/github/followers/Sangwan5688.svg?style=social&label=Follow)
 
-## Download
+## Download it from telegram 
 
 [<img src="https://gitlab.com/IzzyOnDroid/repo/-/raw/master/assets/IzzyOnDroid.png"
      alt="Get it on IzzyDroid"
@@ -110,7 +110,7 @@ how to obtain the original software, should clearly STATE ALL CHANGES made and s
 Use of this software under any "non-free" license is NOT permitted.
 ```
 
-See the [GNU General Public License](https://github.com/Sangwan5688/BlackHole/blob/main/LICENSE) for more details.
+See the [GNU General Public License](https://github.com/Cyberteron/BlackHole) for more details.
 
 ## Building from Source
 
