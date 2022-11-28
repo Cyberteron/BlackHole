@@ -118,7 +118,7 @@ See the [GNU General Public License](https://github.com/Sangwan5688/BlackHole/bl
 2. Fetch latest source code from master branch.
 
 ```
-git clone https://github.com/Sangwan5688/BlackHole.git
+git clone https://github.com/Cyberteron/BlackHole.git
 ```
 
 3. Run the app with Android Studio or VS Code. Or the command line:
@@ -134,7 +134,7 @@ Contributions are welcome. Please read our [contributing guidelines](https://git
 
 ## Facing any Issue?
 
-Have a look at some [common Issues](https://github.com/Sangwan5688/BlackHole/wiki/Common-Issues) that you might face. If your problem is not there, feel free to open an Issue :)
+Have a look at some [common Issues](https://github.com/Cyberteron/BlackHole.git) that you might face. If your problem is not there, feel free to open an Issue :)
 
 ## Want to test Beta Versions? Need help??
 
@@ -142,8 +142,8 @@ You can join our [Telegram Channel](https://t.me/blackhole_official) or [Telegra
 
 ## Liked my work?
 
-<a href="https://www.buymeacoffee.com/ankitsangwan" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<a href="https://www.buymeacoffee.com/abhishek" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 ## What's New
 
-To read full changelog visit the [wiki page](https://github.com/Sangwan5688/BlackHole/wiki/Changelog)
+To read full changelog visit the [wiki page](https://www.abhishek-morkhade.zyrosite.com)
